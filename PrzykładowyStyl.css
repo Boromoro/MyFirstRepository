@@ -1,0 +1,14 @@
+.button {
+    -fx-base: #f5f5dc;
+    -fx-font: 40px "Serif";
+    -fx-pref-height: 100px;
+    -fx-pref-width: 100px;
+}
+
+.border-pane {
+    -fx-base: #9ECDFF;
+}
+
+.label {
+    -fx-pref-height: 15px;
+}
